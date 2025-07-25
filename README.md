@@ -46,7 +46,7 @@ I’m passionate about clean code, cloud-native tech, and learning new stacks.
 ---
 
 ## 🧩 Tech Stack
-**Mobile:** Flutter, Kotlin, Dart, Android Studio
+**Mobile:** Flutter, Kotlin, Dart, Android
 
 **Backend:** Node.js, TypeScript, Express, Knex, PostgreSQL, MongoDB, Docker, AWS
 
